@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba7442750ca14f24b8bff2908b01224e, type: 3}
+  m_Name: CannonParameters
+  m_EditorClassIdentifier: 
+  spaceEntityParameters: {fileID: 11400000, guid: 9ff8763010f2b2f418e0646f8552488e, type: 2}
+  reloadTime: 1
+  ammoCount: -1
+  ammoRestoreTime: -1
